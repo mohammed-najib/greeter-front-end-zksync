@@ -1,4 +1,4 @@
-# greeter-front-end
+# greeter-front-end for (ZkSync) dapp
 
 ## Project setup
 ```
